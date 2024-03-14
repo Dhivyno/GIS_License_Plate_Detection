@@ -1,9 +1,3 @@
-opencv-python==3.4.18.65
-lxml
-tqdm
-tensorflow==2.3.0
-absl-py
-easydict
-matplotlib
-pillow
-pytesseract
+version https://git-lfs.github.com/spec/v1
+oid sha256:202ff1229155d1924652acdb930db8a5ccfbb94a9e1318fb922299e48cf6069a
+size 99

@@ -1,9 +1,3 @@
-# tensorflow-gpu==2.3.0rc0
-# opencv-python==4.1.1.26
-lxml
-tqdm
-absl-py
-matplotlib
-easydict
-pillow
-pytesseract
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f2f3d11f54cd24e5bb92c1c74e71b968cebf7548b044bbfcbde14c936bdd61d
+size 109
